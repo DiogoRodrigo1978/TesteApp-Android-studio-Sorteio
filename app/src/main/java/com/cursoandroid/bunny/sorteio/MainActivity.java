@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+
+
     public void sortearNumero(View view){
 
         TextView texto = findViewById(R.id.textoResultado);
